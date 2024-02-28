@@ -1,5 +1,5 @@
 [package]
-name = "cfg-if"
+name = "cfg-if-edc"
 version = "1.0.0"
 authors = ["Edison wong <edisonwong@gmail.com>"]
 license = "MIT OR Apache-2.0"
